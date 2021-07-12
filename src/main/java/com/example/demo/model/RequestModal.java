@@ -1,0 +1,16 @@
+
+public class RequestModal{
+    public String image_url;
+
+    public RequestModal(){}
+
+    public RequestModal(String image_url){
+        this.image_url=image_url;
+    }
+    public String getImageUrl(){
+        return this.image_url;
+    }
+    public void setImageUrl(String image_url){
+        this.image_url=image_url;
+    }
+}
