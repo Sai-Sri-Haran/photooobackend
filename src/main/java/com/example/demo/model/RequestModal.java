@@ -1,6 +1,5 @@
 
 public class RequestModal{
-    public String image_url;
 
     public RequestModal(){}
 
